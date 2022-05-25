@@ -18,6 +18,10 @@ sklearn: 0.0
 keras: 2.3.1
 
 # Execution:
-1. clone the repository from this link https://github.com/rajban94/Sudoku_Solver_tf.git
-2. open the terminal and write the following command:
-     python3 main.py --image '<path of the image>' --output_dir results/
+1. clone the repository from this link:        
+        
+        https://github.com/rajban94/Sudoku_Solver_tf.git
+
+2. open the terminal and write the following command:           
+        
+        python3 main.py --image 'image path' --output_dir results/
